@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of zhishiq/flarum-redis.** Not for installation: use [Packagist](https://packagist.org/packages/zhishiq/flarum-redis) or the [upstream repository](https://github.com/ZhiShiQ/FlarumRedis).
 
-**0** versions archived · Latest: [`v0.1.0-beta.8.1`](https://github.com/flarchive/zhishiq-flarum-redis/tree/archive/v0.1.0-beta.8.1) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+**1** versions archived · Latest: [`v0.1.0-beta.8.1`](https://github.com/flarchive/zhishiq-flarum-redis/tree/archive/v0.1.0-beta.8.1) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0-beta.8.1` | 2019-01-31 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/zhishiq-flarum-redis/tree/archive/v0.1.0-beta.8.1) |
 
 Catalog entry: [packages/zhishiq-flarum-redis.json](https://github.com/flarchive/archive-index/blob/main/packages/zhishiq-flarum-redis.json)
 
